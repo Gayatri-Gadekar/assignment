@@ -1,4 +1,4 @@
-This file contains 
-index.html,
-mystyle.css,
-javascr.js files.
+This file have following contents 
+index.html
+mystyle.css
+and javascr.js file.
