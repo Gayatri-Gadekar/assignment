@@ -1,1 +1,4 @@
-This file contains index.html,css,js files
+This file have following contents 
+index.html
+mystyle.css
+and javascr.js file.
